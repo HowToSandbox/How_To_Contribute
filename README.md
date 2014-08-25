@@ -13,7 +13,7 @@ If you know a technology well enough to teach it to people, write some code for 
 fmorales@francesmorales.com
 
 # Are you accepting New Projects?
-Absolutly! Bring it, Ninja Space Wizard! We want people to be able to google HowToNoun  Make it a thing! 
+Absolutly! Bring it, Ninja Space Wizard! We want people to be able to google HowToNoun.  Make it a thing! 
 
 # Are you accepting pull requests for existing projects?
 Of cource! Write tests. Make sure the Shippable build is green, then submit your request.
